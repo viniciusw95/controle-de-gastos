@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Novo produto - Controle de gastos</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+	<a href="main" class="Botao1">Home</a>
+	<form name="frmCadastrarCompra" id="frmCadastrarCompra" action="insert">
+		<h1>Cadastrar compra</h1>
+		
+		<label for="diaCompra">Dia da compra:       
+		  <input type="date" id="diaCompra" name="diaCompra" class="Caixa1">
+		</label>
+		
+		<label for="localCompra">Local da compra: 
+		  <input type="text" id="localCompra" name="localCompra" 
+		 	class="Caixa1" placeholder="Carrefour, Guanabara, etc">
+		</label>
+			
+		<script src="scripts/preenche_form.js"></script>
+	
+		<script>
+			let pf = new PreencheForm(frmCadastrarCompra);
+			pf.addProduto();
+		</script>
+		
+		<button type="button" class="Botao1" onclick="pf.addProduto()">+1 produto</button>
+		
+		<input type="button" name="btnCadastrarCompra" 
+			value="Cadastrar compra" onclick="validar();" class="Botao1">
+
+	</form>
+	<script src="scripts/validador.js"></script>
+</body>
+</html>
