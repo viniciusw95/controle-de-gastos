@@ -5,7 +5,7 @@ O objetivo deste projeto é mostrar meus conhecimentos nas linguagens HTML, CSS,
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **CRUD Controle de gastos**
-| :label: Tecnologias | java, html, css, javascript (tecnologias utilizadas)
+| :label: Tecnologias | java, html, css, javascript
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
