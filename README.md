@@ -1,4 +1,4 @@
-# CRUD Controle de gastos
+# Controle de gastos
 
 O objetivo deste projeto é mostrar meus conhecimentos nas linguagens HTML, CSS, Javascript e Java.
 
