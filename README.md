@@ -10,7 +10,7 @@ O objetivo deste projeto é mostrar meus conhecimentos nas linguagens HTML, CSS,
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Imagem de uma lista de gastos](prints/crud-read.png#vitrinedev)
+![](prints/crud-read.png#vitrinedev)
 
 ## Detalhes do projeto
 
