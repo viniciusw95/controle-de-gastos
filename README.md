@@ -2,7 +2,7 @@
 
 O objetivo deste projeto é mostrar meus conhecimentos nas linguagens HTML, CSS, Javascript e Java.
 
-| :placard: Vitrine.Dev |     |
+| :bulb: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **CRUD Controle de gastos**
 | :label: Tecnologias | java, html, css, javascript
