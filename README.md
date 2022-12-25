@@ -6,8 +6,6 @@ O objetivo deste projeto é mostrar meus conhecimentos nas linguagens HTML, CSS,
 | -------------  | --- |
 | :sparkles: Nome        | **CRUD Controle de gastos**
 | :label: Tecnologias | java, html, css, javascript
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/viniciusw95/controle-de-gastos/main/prints/crud-read.png#vitrinedev)
